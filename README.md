@@ -30,8 +30,6 @@
 ***
 ### 📲 Contact
 
-<div align="center">
   <a href="https://www.linkedin.com/in/matheus-ribeiro-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ribeiro-dev/" alt="Linkedin"/></a>
-  
   <a href="mailto:mathribe2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathribe2020@gmail.com" alt="Gmail"/></a>
-</div>
+
