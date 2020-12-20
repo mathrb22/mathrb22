@@ -21,8 +21,9 @@
 ### 🛠️ GitHub Stats
 
 <a href="https://github.com/mathrb22?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrb22&theme=merko" />
+  <img src="https://metrics.lecoq.io/mathrb22?base.activity=0&base.community=0&languages=1&followup=1" />
 </a>
+
 <a href="https://github.com/mathrb22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathrb22&show_icons=true&theme=merko" />
 </a>
