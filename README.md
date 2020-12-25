@@ -22,43 +22,63 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
       <span>HTML</span>
     </td>
     <td align="center" width="96">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
       <span>CSS</span>
     </td>
     <td align="center" width="96">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
       <span>JavaScript</span>
     </td>
     <td align="center" width="96">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <a href="https://reactjs.org/">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
       <span>React</span>
     </td>
     <td align="center" width="96">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <a href="https://git-scm.com/">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
       <span>Git</span>
     </td>
     <td align="center" width="96">
-      <img src=".github/icons/github.jpg" width="48" height="48" alt="GitHub" />
+      <a href="https://github.com/mathrb22">
+        <img src=".github/icons/github.jpg" width="48" height="48" alt="GitHub" />
+      </a>
       <span>GitHub</span>
     </td>
     <td align="center" width="96">
-      <img src=".github/icons/vscode.svg" width="48" height="48" alt="VS Code" />
+      <a href="https://code.visualstudio.com/">
+        <img src=".github/icons/vscode.svg" width="48" height="48" alt="VS Code" />
+      </a>
       <span>VS Code</span>
     </td>
     <td align="center" width="96">
-      <img src=".github/icons/insomnia.jpg" width="48" height="48" alt="Insomnia" />
+      <a href="https://insomnia.rest/">
+        <img src=".github/icons/insomnia.jpg" width="48" height="48" alt="Insomnia" />
+      </a>
       <span>Insomnia</span>
     </td>
     <td align="center" width="96">
-      <img src=".github/icons/notion.jpg" width="48" height="48" alt="Notion" />
+      <a href="https://www.notion.so/">
+        <img src=".github/icons/notion.jpg" width="48" height="48" alt="Notion" />
+      </a>
       <span>Notion</span>
     </td>
     <td align="center" width="96">
-      <img src=".github/icons/figma.svg" width="48" height="48" alt="Figma" />
+      <a href="https://www.figma.com/">
+        <img src=".github/icons/figma.svg" width="48" height="48" alt="Figma" />
+      </a>
       <span>Figma</span>
     </td>
   </tr>
