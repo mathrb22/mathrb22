@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my GitHub profile!
+    Hi there! <img src=".github/img/waving-hand.gif" width="30px"> Welcome to my GitHub profile!
 </h2>
 
 <div align="center">
@@ -53,31 +53,31 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/mathrb22">
-        <img src=".github/icons/github.jpg" width="48" height="48" alt="GitHub" />
+        <img src=".github/img/github.jpg" width="48" height="48" alt="GitHub" />
       </a>
       <span>GitHub</span>
     </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com/">
-        <img src=".github/icons/vscode.svg" width="48" height="48" alt="VS Code" />
+        <img src=".github/img/vscode.svg" width="48" height="48" alt="VS Code" />
       </a>
       <span>VS Code</span>
     </td>
     <td align="center" width="96">
       <a href="https://insomnia.rest/">
-        <img src=".github/icons/insomnia.jpg" width="48" height="48" alt="Insomnia" />
+        <img src=".github/img/insomnia.jpg" width="48" height="48" alt="Insomnia" />
       </a>
       <span>Insomnia</span>
     </td>
     <td align="center" width="96">
       <a href="https://www.notion.so/">
-        <img src=".github/icons/notion.jpg" width="48" height="48" alt="Notion" />
+        <img src=".github/img/notion.jpg" width="48" height="48" alt="Notion" />
       </a>
       <span>Notion</span>
     </td>
     <td align="center" width="96">
       <a href="https://www.figma.com/">
-        <img src=".github/icons/figma.svg" width="48" height="48" alt="Figma" />
+        <img src=".github/img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <span>Figma</span>
     </td>
