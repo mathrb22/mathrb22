@@ -9,7 +9,7 @@
 ### 👨‍💻 About me
 
 <ul>
-  <li>💻 Currently working as a development intern @ Zion Logtec;</li>
+  <li>💻 Working as a software developer at Zion Logtec;</li>
   <li>🎓 Computer and internet technician | ETEC;</li>
   <li>📚 Currently studying the fundamentals of frontend web development, such as HTML, CSS, JavaScript, and later the ReactJS library for the creation of SPAs (Single-page applications), user interfaces, and web applications. I also plan to study more about performance optimization for a better user experience (UX);</li>
   <li>📍 From SP, Brazil.</li>
