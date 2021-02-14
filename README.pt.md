@@ -1,28 +1,28 @@
 <h2 align="center">
-    Hi there! <img src=".github/img/waving-hand.gif" width="30px"> Welcome to my GitHub profile!
+    Olá! <img src=".github/img/waving-hand.gif" width="30px"> Seja bem-vindo ao meu perfil do GitHub!
     <br/>
-    <a href="./README.pt.md">
-      <img src="https://img.shields.io/static/v1?label=&message=Portugu%C3%AAs&color=009c3b" />
+    <a href="./README.md">
+      <img src="https://img.shields.io/static/v1?label=&message=English&color=235ba8" />
     </a>
 </h2>
 
 <div align="center">
-    <b>I'm Matheus, a computer science student and enthusiast of web development technologies.</b>
+    <b>Meu nome é Matheus, sou um estudante de Ciência da Computação e entusiasta de tecnologias de desenvolvimento web.</b>
 </div>
 
-### 👨‍💻 About me
+### 👨‍💻 Sobre mim
 
 <ul>
-  <li>💼 Working as a Junior Systems Programmer at UPPERCASE Consultoria;</li>
-  <li>🎓 Computer and internet technician | ETEC;</li>
-  <li>📚 Currently studying and expanding knowledge in Frontend web development, such as HTML, CSS and JavaScript. Learning more about TypeScript and the AngularJS framework. Interested in creating SPAs (Single-page applications), user interfaces, and web applications. I also plan to study more about performance optimization for a better user experience (UX);</li>
-  <li>⚡ Listening to music, podcasts and watching TV shows/movies are some of my hobbies;</li>
-  <li>📍 From SP, Brazil.</li>
+  <li>💼 Trabalhando como Programador de Sistemas Júnior na UPPERCASE Consultoria;</li>
+  <li>🎓 Técnico em Informática para Internet | ETEC;</li>
+  <li>📚 Atualmente estudando e expandindo meus conhecimentos em desenvolvimento web frontend, com as tecnologias HTML, CSS e JavaScript. Aprendendo mais sobre TypeScript e o framework AngularJS. Tenho interesse na criação de SPAs (Single-page applications), interfaces de usuário, e aplicações web. Também pretendo estudar mais a respeito de otimização de performance para uma melhor experiência dos usuários (UX);</li>
+  <li>⚡ Ouvir música, podcasts e assistir filmes e séries são alguns dos meus hobbies;</li>
+  <li>📍 SP - Brasil.</li>
 </ul>
 
-> “Patience is a key element of success.” - Bill Gates
+> “Paciência é um elemento chave para o sucesso.” - Bill Gates
 
-### 🛠️ Languages and tools
+### 🛠️ Linguagens e ferramentas
 
 <table>
   <tr>
@@ -127,7 +127,7 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <a href="https://github.com/mathrb22?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrb22&theme=omni" />
@@ -137,19 +137,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathrb22&show_icons=true&theme=omni" />
 </a>
 
-#### 🏆 Trophies
+#### 🏆 Troféus
 
 <a href="https://github.com/mathrb22">
   <img src="https://github-profile-trophy.vercel.app/?username=mathrb22&theme=dracula&title=Followers, Commit, Stars, PullRequest, Repositories, Issues" alt="mathrb22">
 </a>
 
-#### 📈 Contribution streak
+#### 📈 Contribuições
 
 <a href="https://github.com/mathrb22?tab=repositories">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathrb22&theme=omni"/>
 </a>
 
-### 📲 Contact me
+### 📲 Contato
 
 <a href="https://www.linkedin.com/in/matheus-ribeiro-dev"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ribeiro-dev/" alt="Linkedin"/></a>
 <a href="mailto:math.ribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.ribeiro.dev@gmail.com" alt="Gmail"/></a>
