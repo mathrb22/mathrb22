@@ -13,9 +13,9 @@
 ### 👨‍💻 About me
 
 <ul>
-  <li>💼 Working as a Junior Systems Programmer at UPPERCASE Consultoria;</li>
+  <li>💼 Working as a Front-end Developer</li>
   <li>🎓 Computer and internet technician | ETEC;</li>
-  <li>📚 Currently studying and expanding knowledge in Frontend web development, such as HTML, CSS and JavaScript. Learning more about TypeScript and the Angular framework. Interested in creating SPAs (Single-page applications), user interfaces, and web applications. I also plan to study more about performance optimization for a better user experience (UX);</li>
+  <li>📚 Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript, React, TypeScript and Angular. Interested in creating SPAs (Single-page applications), user interfaces, and web applications. I also plan to study more about performance optimization for a better user experience (UX);</li>
   <li>⚡ Listening to music, podcasts and watching TV shows/movies are some of my hobbies;</li>
   <li>📍 From SP, Brazil.</li>
 </ul>
