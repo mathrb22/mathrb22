@@ -13,9 +13,9 @@
 ### 👨‍💻 Sobre mim
 
 <ul>
-  <li>💼 Trabalhando como Programador de Sistemas Júnior na UPPERCASE Consultoria;</li>
+  <li>💼 Trabalhando como Desenvolvedor Front-end</li>
   <li>🎓 Técnico em Informática para Internet | ETEC;</li>
-  <li>📚 Atualmente estudando e expandindo meus conhecimentos em desenvolvimento web frontend, com as tecnologias HTML, CSS e JavaScript. Aprendendo mais sobre TypeScript e o framework Angular. Tenho interesse na criação de SPAs (Single-page applications), interfaces de usuário, e aplicações web. Também pretendo estudar mais a respeito de otimização de performance para uma melhor experiência dos usuários (UX);</li>
+  <li>📚 Atualmente estudando e expandindo meus conhecimentos em desenvolvimento web frontend, com as tecnologias HTML, CSS, JavaScript, React, TypeScript e Angular. Tenho interesse na criação de SPAs (Single-page applications), interfaces de usuário, e aplicações web. Também pretendo estudar mais a respeito de otimização de performance para uma melhor experiência dos usuários (UX);</li>
   <li>⚡ Ouvir música, podcasts e assistir filmes e séries são alguns dos meus hobbies;</li>
   <li>📍 SP - Brasil.</li>
 </ul>
