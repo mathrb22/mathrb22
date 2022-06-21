@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi there! <img src=".github/img/waving-hand.gif" width="30px"> Welcome to my GitHub profile!
+    Hi there! <img src=".github/img/waving-hand.gif" width="30px" height="30px"> Welcome to my GitHub profile!
     <br/>
     <a href="./README.pt.md">
       <img src="https://img.shields.io/static/v1?label=&message=Portugu%C3%AAs&color=009c3b" />
