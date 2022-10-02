@@ -137,12 +137,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathrb22&show_icons=true&theme=omni" />
 </a>
 
-#### 🏆 Troféus
-
-<a href="https://github.com/mathrb22">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathrb22&theme=dracula&title=Followers, Commit, Stars, PullRequest, Repositories, Issues" alt="mathrb22">
-</a>
-
 #### 📈 Contribuições
 
 <a href="https://github.com/mathrb22?tab=repositories">
