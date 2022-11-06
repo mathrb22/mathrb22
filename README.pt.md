@@ -66,16 +66,29 @@
       <a href="https://sass-lang.com/">
         <img src=".github/img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
+      <br/>
       <span>Sass</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img src=".github/img/tailwindcss.jpg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <span>TailwindCSS</span>
+    </td>
+    <td align="center" width="96">
+      <a href="https://ionicframework.com/">
+        <img src=".github/img/ionic.webp" width="48" height="48" alt="Ionic" />
+      </a>
+      <span>Ionic</span>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.npmjs.com/">
         <img src=".github/img/npm.svg" width="48" height="48" alt="npm" />
       </a>
       <span>npm</span>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
         <img src=".github/img/git.svg" width="48" height="48" alt="Git" />
