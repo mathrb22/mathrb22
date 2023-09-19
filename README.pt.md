@@ -7,15 +7,15 @@
 </h2>
 
 <div align="center">
-    <b>Meu nome é Matheus, sou um estudante de Ciência da Computação e entusiasta de tecnologias de desenvolvimento web.</b>
+    <b>Meu nome é Matheus, sou um desenvolvedor front-end e entusiasta de tecnologias de desenvolvimento web.</b>
 </div>
 
 ### 👨‍💻 Sobre mim
 
 <ul>
-  <li>💼 Trabalhando como Desenvolvedor Front-end</li>
-  <li>🎓 Técnico em Informática para Internet | ETEC;</li>
-  <li>📚 Atualmente estudando e expandindo meus conhecimentos em desenvolvimento web frontend, com as tecnologias HTML, CSS, JavaScript, React, TypeScript e Angular. Tenho interesse na criação de SPAs (Single-page applications), interfaces de usuário, e aplicações web. Também pretendo estudar mais a respeito de otimização de performance para uma melhor experiência dos usuários (UX);</li>
+  <li>💼 Trabalhando como Desenvolvedor Front-end Pleno;</li>
+  <li>🎓 Bacharel em Ciência da Computação;</li>
+  <li>📚 Criativo e detalhista, dedicado a projetar e desenvolver sites, interfaces de usuário e aplicações web. Entusiasta em tecnologias de desenvolvimento web e experiência do usuário (UX). Sempre buscando adquirir novos conhecimentos e aperfeiçoar minhas habilidades. Atualmente estudando e expandindo meus conhecimentos em desenvolvimento web frontend, com as tecnologias HTML, CSS, SASS, TypeScript, Angular e React;</li>
   <li>⚡ Ouvir música, podcasts e assistir filmes e séries são alguns dos meus hobbies;</li>
   <li>📍 SP - Brasil.</li>
 </ul>
