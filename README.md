@@ -7,15 +7,15 @@
 </h2>
 
 <div align="center">
-    <b>I'm Matheus, a computer science student and enthusiast of web development technologies.</b>
+    <b>I'm Matheus, a front-end developer and enthusiast of web development technologies.</b>
 </div>
 
 ### 👨‍💻 About me
 
 <ul>
-  <li>💼 Working as a Front-end Developer</li>
-  <li>🎓 Computer and internet technician | ETEC;</li>
-  <li>📚 Currently studying and expanding knowledge in Frontend web development technologies, such as HTML, CSS, JavaScript, React, TypeScript and Angular. Interested in creating SPAs (Single-page applications), user interfaces, and web applications. I also plan to study more about performance optimization for a better user experience (UX);</li>
+  <li>💼 Working as a Front-end Developer;</li>
+  <li>🎓 Bachelor of Science in Computer Science;</li>
+  <li>📚 Creative and detail-oriented, dedicated to designing and developing websites, user interfaces, and web applications. Passionate about web development technologies and user experience (UX). Always looking to acquire new knowledge and improve my skills. Currently studying and expanding my knowledge in frontend web development technologies, like HTML, CSS, SASS, TypeScript, Angular, and React;</li>
   <li>⚡ Listening to music, podcasts and watching TV shows/movies are some of my hobbies;</li>
   <li>📍 From SP, Brazil.</li>
 </ul>
