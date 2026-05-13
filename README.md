@@ -140,22 +140,6 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/mathrb22?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrb22&theme=omni" />
-</a>
-
-<a href="https://github.com/mathrb22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathrb22&show_icons=true&theme=omni" />
-</a>
-
-#### 📈 Contribution streak
-
-<a href="https://github.com/mathrb22?tab=repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathrb22&theme=omni"/>
-</a>
-
 ### 📲 Contact me
 
 <a href="https://www.linkedin.com/in/matheus-ribeiro-dev"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ribeiro-dev/" alt="Linkedin"/></a>
